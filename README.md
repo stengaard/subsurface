@@ -22,4 +22,4 @@ Hacking
 
 But I need subsurface test xml files:
  - https://github.com/stengaard/divelog
- - https://github.com/torvalds/subsurface/tree/master/tests
+ - https://github.com/torvalds/subsurface/tree/master/dives
